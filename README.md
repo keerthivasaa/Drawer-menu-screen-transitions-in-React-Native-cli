@@ -3,6 +3,7 @@ How to create an animated drawer menu using react-navigation v5 &amp; react-nati
 
 # Software :
 React-Native, react-native-cli , VSCode, iOS Simulator
+DemoVideo: https://www.youtube.com/watch?v=5nL1mOjQaOs
 
 # Install in your Project Terminal using npm :
     "react-native": "^0.62.2",
